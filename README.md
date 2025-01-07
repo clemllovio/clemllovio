@@ -10,7 +10,7 @@
   - [Ft_printf](https://github.com/clemllovio/ft_printf)
   - [Pipex](https://github.com/clemllovio/pipex) 
   - [Push_swap](https://github.com/clemllovio/push_swap)
-  - [Minishell](https://github.com/your-username/minishell)
+  - [Minishell](https://github.com/clemllovio/minishell)
   - [Philosphers](https://github.com/clemllovio/philosophers)
   - [Cub3D](https://github.com/clemllovio/cub3D)
   - [Cpp](https://github.com/clemllovio/cpp)
