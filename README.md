@@ -3,7 +3,7 @@
 
 ### 🚀 Projects:
 <details>
-  <summary>42 common core </summary>
+  <summary>42 project </summary>
 
   - [Libft](https://github.com/clemllovio/libft)
   - [Get Next Line](https://github.com/clemllovio/get_next_line)
