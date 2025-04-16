@@ -16,7 +16,7 @@
   - [Cpp](https://github.com/clemllovio/cpp)
   - [Inception](https://github.com/clemllovio/inception)
   - [Ft_irc](https://github.com/clemllovio/ft_irc)
-  - [Ft_transcendence](https://github.com/transcendencia/ft_transcendence)
+  - [Ft_transcendence](https://github.com/clemllovio/ft_transcendence)
   - [Libasm](https://github.com/clemllovio/libasm)
   - [Piscine-Python for data science](https://github.com/clemllovio/Piscine---Python-for-data-science)
   - [Piscine-Data science](https://github.com/clemllovio/Piscine---Data-science)
